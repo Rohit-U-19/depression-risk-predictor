@@ -1,0 +1,7 @@
+age,sleep_hours,social_media_minutes,activity_level,emotional_score,mental_health_history,sentiment_score,gender_Male,gender_Other,occupation_Chef,occupation_Doctor,occupation_Engineer,occupation_Freelancer,occupation_Intern,occupation_Manager,occupation_Student,occupation_Teacher,occupation_Writer,prediction,timestamp
+18,5,0,5,0,0,0.5,1,0,0,0,0,0,0,0,1,0,0,✅ Not At Risk,2025-07-16 18:30:44.617928
+20,6,0,5,0,0,0.0,1,0,0,0,0,0,0,0,1,0,0,✅ Not At Risk,2025-07-16 18:45:22.183479
+18,4,0,4,0,0,0.5,1,0,0,0,0,0,0,0,1,0,0,⚠️ At Risk,2025-07-16 19:01:47.815478
+20,6,0,5,0,0,0.0,1,0,0,0,0,0,0,0,1,0,0,✅ Not At Risk,2025-07-16 19:05:37.837609
+19,4,0,3,0,0,0.0,1,0,0,0,0,0,0,0,1,0,0,⚠️ At Risk,2025-07-16 19:37:54.796308
+19,4,0,3,0,0,0.0,1,0,0,0,0,0,0,0,1,0,0,⚠️ At Risk,2025-07-16 19:40:00.415533

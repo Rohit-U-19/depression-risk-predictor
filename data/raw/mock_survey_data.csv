@@ -1,0 +1,104 @@
+age,gender,occupation,sleep_hours,social_media_minutes,activity_level,emotional_score,mental_health_history,post_text,risk
+33,Male,Engineer,4.7,82,9935,1,No,I can't do this anymore.,1
+18,Male,Student,6.3,43,4257,10,No,Everything feels heavy.,1
+25,Male,Freelancer,7.3,204,5552,2,Yes,I'm full of energy!,0
+21,Male,Student,5.5,206,5333,0,No,Feeling a bit anxious.,0
+27,Other,Writer,5.1,351,6925,9,Yes,I can't do this anymore.,1
+18,Female,Student,8.9,149,2654,6,No,Trying my best.,1
+20,Male,Student,7.2,66,3803,8,Yes,Everything feels heavy.,1
+45,Other,Freelancer,6.6,196,1916,3,Yes,I feel off lately.,1
+18,Other,Student,8.3,191,4483,10,No,I feel completely lost.,1
+29,Female,Intern,4.3,317,9830,4,No,Life just doesn't feel worth it.,1
+18,Male,Student,6.3,76,1771,1,Yes,I’m pushing through.,1
+37,Other,Writer,9,300,5119,8,Yes,I can't do this anymore.,1
+33,Other,Manager,5.4,180,8123,2,No,Some days are okay.,1
+41,Male,Artist,8.3,182,9317,9,Yes,Everything feels heavy.,1
+17,Other,Student,8.7,301,1009,9,No,I feel completely lost.,1
+20,Female,Student,4.8,153,2290,1,No,I can't do this anymore.,1
+29,Male,Manager,7.1,311,3705,4,No,I’m pushing through.,0
+45,Female,Writer,5.9,294,8397,1,Yes,I’m pushing through.,0
+24,Other,Student,4.8,142,1117,1,Yes,Everything feels heavy.,1
+15,Female,Student,3.9,151,5562,10,No,Everything feels heavy.,1
+32,Female,Intern,7.9,127,2545,1,No,I'm full of energy!,0
+22,Other,Student,3.8,360,2612,0,No,Why do I feel so numb?,1
+32,Male,Teacher,4.5,259,3296,6,Yes,Why do I feel so numb?,1
+39,Other,Teacher,4,306,1241,1,Yes,Everything feels heavy.,1
+22,Male,Student,8.3,60,3697,6,Yes,Trying my best.,1
+34,Female,Intern,7.3,314,8973,2,Yes,I'm full of energy!,0
+15,Other,Student,7.5,61,6138,0,Yes,Another productive day!,0
+30,Male,Manager,8.8,71,4044,1,Yes,Life is beautiful!,0
+24,Male,Student,6.7,50,2343,6,No,I feel off lately.,0
+32,Female,Chef,5.7,360,5915,7,No,Some days are okay.,0
+27,Other,Teacher,4.7,165,3170,5,Yes,Everything feels heavy.,1
+17,Female,Student,8.1,184,9666,0,No,I feel great today!,0
+33,Male,Artist,8.4,313,3546,4,No,Feeling a bit anxious.,0
+45,Female,Doctor,6.3,158,1832,1,No,I feel off lately.,0
+17,Other,Student,8.9,112,8239,8,No,Life just doesn't feel worth it.,1
+16,Other,Student,8.5,309,1590,5,Yes,Trying my best.,0
+20,Male,Student,8.4,137,5088,10,Yes,Why do I feel so numb?,1
+44,Other,Writer,4.4,151,3662,2,No,I can't do this anymore.,1
+20,Female,Student,7.9,157,5371,2,Yes,I love my routine.,0
+32,Male,Intern,8,265,6728,4,Yes,I’m pushing through.,0
+35,Female,Writer,8.3,172,6753,10,No,Life just doesn't feel worth it.,1
+15,Male,Student,8.3,163,3925,9,No,I can't do this anymore.,1
+21,Female,Student,7.5,190,8149,9,Yes,I feel completely lost.,1
+33,Male,Doctor,7.4,30,9518,8,Yes,Why do I feel so numb?,1
+44,Female,Chef,7.1,93,5920,8,No,I feel completely lost.,1
+19,Other,Student,4.2,245,7211,10,Yes,Life just doesn't feel worth it.,1
+42,Male,Writer,5.2,137,8043,9,No,I feel completely lost.,1
+41,Female,Doctor,7.9,116,2389,4,No,Some days are okay.,0
+31,Male,Doctor,3.6,155,8784,9,Yes,I feel completely lost.,1
+24,Male,Student,7.5,226,9099,6,Yes,I’m pushing through.,0
+38,Male,Teacher,4.5,295,8611,0,Yes,I can't do this anymore.,1
+41,Other,Intern,6.8,256,9270,6,No,I’m pushing through.,1
+45,Female,Doctor,7.7,296,8939,10,Yes,Why do I feel so numb?,1
+32,Female,Freelancer,5.3,306,2320,2,Yes,I’m pushing through.,1
+27,Female,Doctor,5.7,307,8633,6,Yes,I’m pushing through.,1
+24,Other,Student,3.6,324,7232,7,Yes,Why do I feel so numb?,1
+21,Female,Student,6.5,309,4613,7,Yes,I feel off lately.,1
+35,Other,Writer,7.2,237,3704,7,Yes,Feeling a bit anxious.,0
+27,Other,Engineer,5.9,266,3977,0,No,Trying my best.,1
+20,Female,Student,7.7,224,5558,6,No,Some days are okay.,1
+23,Male,Student,9,209,4673,10,Yes,I can't do this anymore.,1
+31,Male,Doctor,6.9,152,3068,7,Yes,Feeling a bit anxious.,0
+36,Male,Freelancer,6.8,88,3683,4,Yes,Feeling a bit anxious.,0
+37,Other,Writer,4.6,333,4978,1,No,Life just doesn't feel worth it.,1
+36,Other,Engineer,5.9,219,2129,8,No,I can't do this anymore.,1
+28,Female,Intern,8.8,355,8532,2,No,Life is beautiful!,0
+44,Other,Freelancer,7.8,268,8136,9,No,Why do I feel so numb?,1
+33,Female,Teacher,4.8,267,7209,5,Yes,I feel completely lost.,1
+40,Male,Artist,5.5,162,6576,4,No,Feeling a bit anxious.,0
+27,Male,Doctor,7.5,280,4937,7,No,Trying my best.,0
+18,Female,Student,7.3,186,7046,7,No,Trying my best.,1
+22,Female,Student,5.2,148,2976,3,No,Some days are okay.,0
+22,Female,Student,7.5,298,5636,1,Yes,I'm full of energy!,0
+17,Female,Student,3.6,303,3073,4,Yes,I can't do this anymore.,1
+45,Female,Artist,4.1,36,5658,7,No,I feel completely lost.,1
+15,Female,Student,8.7,274,2869,1,No,I love my routine.,0
+15,Male,Student,4.3,318,5978,1,Yes,I can't do this anymore.,1
+44,Other,Writer,7.8,145,9561,6,No,Trying my best.,1
+34,Other,Writer,6.9,342,2625,3,Yes,I feel off lately.,0
+17,Other,Student,3.9,31,7693,7,No,Why do I feel so numb?,1
+19,Other,Student,5.1,262,2166,10,Yes,Why do I feel so numb?,1
+38,Male,Doctor,6.5,106,5352,2,Yes,Some days are okay.,0
+39,Male,Freelancer,6.1,185,7594,4,No,Trying my best.,0
+35,Other,Writer,4.9,76,4750,10,Yes,Why do I feel so numb?,1
+40,Other,Artist,7.1,172,3973,9,No,I feel completely lost.,1
+36,Female,Intern,5.3,83,3634,5,No,Trying my best.,1
+42,Male,Writer,6,191,5135,5,Yes,Trying my best.,0
+39,Female,Manager,3.8,295,6927,9,No,I feel completely lost.,1
+33,Other,Doctor,4.2,177,8178,7,Yes,I can't do this anymore.,1
+30,Female,Doctor,6.5,312,7684,1,Yes,Some days are okay.,1
+40,Other,Artist,5.1,169,7807,7,No,I’m pushing through.,1
+31,Other,Writer,6.3,99,2143,4,No,I feel off lately.,1
+34,Other,Freelancer,6.7,280,3434,7,No,I feel off lately.,1
+37,Female,Manager,8.6,126,4912,9,No,Everything feels heavy.,1
+26,Female,Writer,7.6,225,7325,10,Yes,I feel completely lost.,1
+41,Other,Artist,5.3,81,8213,1,No,Some days are okay.,0
+17,Male,Student,6.1,165,6546,9,No,I can't do this anymore.,1
+37,Female,Manager,6.9,279,9864,0,Yes,I’m pushing through.,1
+38,Male,Teacher,7.7,81,8269,2,No,I feel great today!,0
+15,Female,Student,5.5,250,3385,3,No,Feeling a bit anxious.,0
+18,Male,Student,6.5,189,7000,7,No,I don't feel emotions ,1
+17,Female,Student,8,200,3000,7,Yes,I fear  people,1
+19,Female,Student,8,200,3500,7,No,im independent,1
