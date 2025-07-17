@@ -56,3 +56,8 @@ See the LICENSE file for details.
 👤 Author
 Rohit U
 Built as part of a complete ML + Streamlit deployment journey.
+
+
+# Example Docker Usage:
+docker build -t depression-app .
+docker run -p 8501:8501 depression-app
