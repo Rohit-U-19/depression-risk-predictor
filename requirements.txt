@@ -1,7 +1,9 @@
-streamlit
 scikit-learn
 pandas
 numpy
 matplotlib
 shap
 joblib
+streamlit
+firebase-admin
+pyrebase4
